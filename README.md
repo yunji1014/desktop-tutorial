@@ -10,6 +10,8 @@
 
 약 2년간 교내활동을 하며 진행했던 프로젝트들입니다.
 
+
+
 # 1. 🖋교내학습동아리 [NARU_MOONSITY]
 
 • 개발기간: 2022.7.13 ~ 2022.12.26
@@ -17,6 +19,9 @@
 • 맡은 역할: 팀원-UI팀 | 메인 UI와 설정, 씬이동 등을 구현.
 
 https://github.com/NaruMooncity/Naru.git
+
+
+
 
 # 2. 🐶GURU1-UNITY [puppy run]
 
@@ -26,6 +31,9 @@ https://github.com/NaruMooncity/Naru.git
 
 https://github.com/yunji1014/guru_game.git
 
+
+
+
 # 3. 🔮웹페이지저작기초 [오늘의 운세 보기 사이트]
 
 • 개발기간: 2023.4.1 ~ 2023.6.15
@@ -34,6 +42,9 @@ https://github.com/yunji1014/guru_game.git
 
 https://github.com/yunji1014/Fortune-of-today.git
 
+
+
+
 # 4. 🌍소학회"DDISION" [지구를 지켜라]
 
 • 개발기간: 2023.6.30 ~ 2023.12.6
@@ -41,4 +52,7 @@ https://github.com/yunji1014/Fortune-of-today.git
 • 맡은 역할: 팀원-개발팀 | 설정시스템, 캐릭터 이동, 씬이동, 인벤토리 스위칭, 키세팅 설정, 게임 기획 등
 
 https://github.com/Yeon09-a/DISSION_SavingTheEarth.git
+
+
+.
 
