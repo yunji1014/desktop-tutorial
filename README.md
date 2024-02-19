@@ -12,6 +12,7 @@
 # 1. 교내학습동아리 [NARU_MOONSITY]
 • 개발기간: 2022.7.13 ~ 2022.12.26
 • 맡은 역할: 팀원-UI팀 | 메인 UI와 설정, 씬이동 등을 구현.
+
 https://github.com/NaruMooncity/Naru.git
 
 # 2. GURU1-UNITY [puppy run]
@@ -24,7 +25,7 @@ https://github.com/yunji1014/guru_game.git
 • 개발기간: 2023.4.1 ~ 2023.6.15
 • 맡은 역할: 팀장 | 랜덤 시스템, 운세 문구 고안, NAME.JS, STAR.JS, TARO.JS 제작, 작업 총괄
 
-[웹저기 1조.zip](https://github.com/yunji1014/desktop-tutorial/files/14331824/1.zip)
+https://github.com/yunji1014/Fortune-of-today.git
 
 # 4. 소학회"DDISION" [지구를 지켜라]
 • 개발기간: 2023.6.30 ~ 2023.12.6
