@@ -18,7 +18,7 @@
 
 • 맡은 역할: 팀원-UI팀 | 메인 UI와 설정, 씬이동 등을 구현.
 
-https://github.com/NaruMooncity/Naru.git
+[https://github.com/NaruMooncity/Naru.git](https://github.com/yunji1014/naru_mooncity.git)
 
 
 
