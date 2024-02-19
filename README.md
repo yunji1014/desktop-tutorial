@@ -21,7 +21,7 @@ https://github.com/NaruMooncity/Naru.git
 
 https://github.com/yunji1014/guru_game.git
 
-# 3. 웹페이지저작기초 교과목 중 팀프로젝트 [오늘의 운세 보기 사이트]
+# 3. 웹페이지저작기초 [오늘의 운세 보기 사이트]
 • 개발기간: 2023.4.1 ~ 2023.6.15
 • 맡은 역할: 팀장 | 랜덤 시스템, 운세 문구 고안, NAME.JS, STAR.JS, TARO.JS 제작, 작업 총괄
 
