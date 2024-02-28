@@ -45,7 +45,7 @@ https://github.com/yunji1014/Fortune-of-today.git
 
 
 
-# 4. 🌍소학회"DDISION" [지구를 지켜라]
+# 4. 🌍소학회"DISSION" [지구를 지켜라]
 
 • 개발기간: 2023.6.30 ~ 2023.12.6
 
