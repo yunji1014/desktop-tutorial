@@ -15,7 +15,7 @@
 # 1. 🖋교내학습동아리 [NARU_MOONSITY]
 
 • 개발기간: 2022.7.13 ~ 2022.12.26
-
+• 사용 엔진: UNITY
 • 맡은 역할: 팀원-UI팀 | 메인 UI와 설정, 씬이동 등을 구현.
 
 [https://github.com/NaruMooncity/Naru.git](https://github.com/yunji1014/naru_mooncity.git)
@@ -26,7 +26,8 @@
 # 2. 🐶GURU1-UNITY [puppy run]
 
 • 개발기간: 2023.1.1 ~ 2023.1.30
-
+• 사용 엔진: UNITY
+• 프로젝트 개요: 강아지를 중심으로 한 점프맵 형식의 게임
 • 맡은 역할: 팀장 | 점프시스템 구현, UI배치, 스토리 및 총괄, 디자인 등.
 
 https://github.com/yunji1014/guru_game.git
@@ -48,11 +49,19 @@ https://github.com/yunji1014/Fortune-of-today.git
 # 4. 🌍소학회"DISSION" [지구를 지켜라]
 
 • 개발기간: 2023.6.30 ~ 2023.12.6
-
+• 사용 엔진: UNITY
+• 프로젝트 개요: 주인공 플레이어를 중심으로 보스몬스터를 해치우며 진실에 도달하는 RPG형 게임
 • 맡은 역할: 팀원-개발팀 | 설정시스템, 캐릭터 이동, 씬이동, 인벤토리 스위칭, 키세팅 설정, 게임 기획 등
 
 https://github.com/Yeon09-a/DISSION_SavingTheEarth.git
 
+# 5. 컴퓨터그래픽스 [There will be an inspection]
+• 개발기간: 2024.5.1 ~ 2024.6.15
+• 사용 엔진: UNITY
+• 프로젝트 개요: 검문관이 되어 가지고 있는 힌트를 바탕으로 파티에 초청된 손님들 중 스파이를 찾아내는 퍼즐게임. 
+• 개인 프로젝트 (풀스택) 
+
+https://drive.google.com/file/d/12DSJCPmIhpg2Yff0TtZnIO7F9u1yNGIr/view?usp=drive_link
 
 .
 
