@@ -23,6 +23,8 @@
 
 
 
+
+_
 # 2. 🐶GURU1-UNITY [puppy run]
 
 • 개발기간: 2023.1.1 ~ 2023.1.30
@@ -35,6 +37,8 @@ https://github.com/yunji1014/guru_game.git
 
 
 
+
+_
 # 3. 🔮웹페이지저작기초 [오늘의 운세 보기 사이트]
 
 • 개발기간: 2023.4.1 ~ 2023.6.15
@@ -46,6 +50,8 @@ https://github.com/yunji1014/Fortune-of-today.git
 
 
 
+
+_
 # 4. 🌍소학회"DISSION" [지구를 지켜라]
 
 • 개발기간: 2023.6.30 ~ 2023.12.6
@@ -55,13 +61,25 @@ https://github.com/yunji1014/Fortune-of-today.git
 
 https://github.com/Yeon09-a/DISSION_SavingTheEarth.git
 
+
+
+
+
+_
 # 5. 컴퓨터그래픽스 [There will be an inspection]
 • 개발기간: 2024.5.1 ~ 2024.6.3
 • 사용 엔진: UNITY
 • 프로젝트 개요: 검문관이 되어 가지고 있는 힌트를 바탕으로 파티에 초청된 손님들 중 스파이를 찾아내는 퍼즐게임. 
 • 개인 프로젝트 (풀스택) 
 
+개발 프로젝트
 https://drive.google.com/file/d/12DSJCPmIhpg2Yff0TtZnIO7F9u1yNGIr/view?usp=drive_link
+
+게임 소개 영상
+https://drive.google.com/file/d/1h-FKmU-g8gRaS7VWJ72kWGRXetJMtWq9/view?usp=sharing
+
+
+
 
 .
 
