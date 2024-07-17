@@ -80,6 +80,16 @@ https://drive.google.com/file/d/1h-FKmU-g8gRaS7VWJ72kWGRXetJMtWq9/view?usp=shari
 
 
 
+# 6. 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
+• 개발기간: 2024.5.1 ~ 2024.6.3
+• 사용 엔진: 안드로이드 스튜디오오
+
+
+
+
+
+
+
 
 .
 
