@@ -70,7 +70,7 @@ _
 • 개발기간: 2024.5.1 ~ 2024.6.3
 • 사용 엔진: UNITY
 • 프로젝트 개요: 검문관이 되어 가지고 있는 힌트를 바탕으로 파티에 초청된 손님들 중 스파이를 찾아내는 퍼즐게임. 
-• 개인 프로젝트 (풀스택) 
+• 개인 프로젝트
 
 개발 프로젝트
 https://drive.google.com/file/d/12DSJCPmIhpg2Yff0TtZnIO7F9u1yNGIr/view?usp=drive_link
@@ -82,7 +82,18 @@ https://drive.google.com/file/d/1h-FKmU-g8gRaS7VWJ72kWGRXetJMtWq9/view?usp=shari
 
 # 6. 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
 • 개발기간: 2024.5.1 ~ 2024.6.3
-• 사용 엔진: 안드로이드 스튜디오오
+• 사용 엔진: 안드로이드 스튜디오
+• 프로젝트 개요: READ NOW는 책을 읽으며 느낀 감상을 편리하게 기록하고, 영감을 간직하게 하여, 책과 독자의 생생하고 살아있는 상호작용을 실현시키는 App입니다.
+• 프로젝트명:** Read Now
+• 목적:** 독서 활동을 기록하고 관리하며, 독서 습관을 개선할 수 있도록 지원하는 모바일 어플리케이션
+• UI 디자인 도구:** Figma
+• 맡은 역할: 조장 | 검색 api 밑 책 추천 api 구현, 책장 데이터베이스 및 책장 구현, 로그인 시스템과 메인, 책장 ui
+
+개발 프로젝트
+https://github.com/yunji1014/guru_app_.git
+
+어플 소개 영상
+https://www.youtube.com/watch?v=OZKGd9gq8lw
 
 
 
