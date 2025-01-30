@@ -95,7 +95,7 @@ https://github.com/yunji1014/guru_app_.git
 어플 소개 영상
 https://www.youtube.com/watch?v=OZKGd9gq8lw
 
-# 7. C# 개인 스터디
+# 7. C++ 개인 스터디
 https://github.com/yunji1014/c-study.git
 
 
