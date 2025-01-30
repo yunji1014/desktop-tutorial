@@ -8,24 +8,13 @@
 
 # 📝Projects
 
-약 2년간 개발 활동을 하며 진행했던 프로젝트들입니다.
-
-
-
-# 1. 🖋교내학습동아리 [NARU_MOONSITY]
-
-• 개발기간: 2022.7.13 ~ 2022.12.26
-• 사용 엔진: UNITY
-• 맡은 역할: 팀원-UI팀 | 메인 UI와 설정, 씬이동 등을 구현.
-
-[https://github.com/NaruMooncity/Naru.git](https://github.com/yunji1014/naru_mooncity.git)
-
+약 3년간 개발 활동을 하며 진행했던 프로젝트들입니다.
 
 
 
 
 _
-# 2. 🐶GURU1-UNITY [puppy run]
+# 1. 🐶GURU1-UNITY [puppy run]
 
 • 개발기간: 2023.1.1 ~ 2023.1.30
 • 사용 엔진: UNITY
@@ -39,7 +28,7 @@ https://github.com/yunji1014/guru_game.git
 
 
 _
-# 3. 🔮웹페이지저작기초 [오늘의 운세 보기 사이트]
+# 2. 🔮웹페이지저작기초 [오늘의 운세 보기 사이트]
 
 • 개발기간: 2023.4.1 ~ 2023.6.15
 
@@ -52,7 +41,7 @@ https://github.com/yunji1014/Fortune-of-today.git
 
 
 _
-# 4. 🌍소학회"DISSION" [지구를 지켜라]
+# 3. 🌍소학회"DISSION" [지구를 지켜라]
 
 • 개발기간: 2023.6.30 ~ 2023.12.6
 • 사용 엔진: UNITY
@@ -66,7 +55,7 @@ https://github.com/Yeon09-a/DISSION_SavingTheEarth.git
 
 
 _
-# 5. 컴퓨터그래픽스 [There will be an inspection]
+# 4. 컴퓨터그래픽스 [There will be an inspection]
 • 개발기간: 2024.5.1 ~ 2024.6.3
 • 사용 엔진: UNITY
 • 프로젝트 개요: 검문관이 되어 가지고 있는 힌트를 바탕으로 파티에 초청된 손님들 중 스파이를 찾아내는 퍼즐게임. 
@@ -80,7 +69,7 @@ https://drive.google.com/file/d/1h-FKmU-g8gRaS7VWJ72kWGRXetJMtWq9/view?usp=shari
 
 
 
-# 6. 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
+# 5. 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
 • 개발기간: 2024.5.1 ~ 2024.6.3
 • 사용 엔진: 안드로이드 스튜디오
 • 프로젝트 개요: READ NOW는 책을 읽으며 느낀 감상을 편리하게 기록하고, 영감을 간직하게 하여, 책과 독자의 생생하고 살아있는 상호작용을 실현시키는 App입니다.
@@ -95,7 +84,7 @@ https://github.com/yunji1014/guru_app_.git
 어플 소개 영상
 https://www.youtube.com/watch?v=OZKGd9gq8lw
 
-# 7. C++ 개인 스터디
+# 6. C++ 개인 스터디
 https://github.com/yunji1014/c-study.git
 
 
