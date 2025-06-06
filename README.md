@@ -25,6 +25,8 @@
 
 • 참여자: 프론트 2명, 백엔드 1명
 
+• 나의 역할: 백엔드/springboot를 이용하여 restfulAPI를 짰다. CURD의 기능들을 만들어 활용하였으며, AWS와 같은 클라우드 시스템에 배포 하여 협업을 진행하였다. 
+
 • 프레임 워크: spring boot
 
   DB: MYsql
