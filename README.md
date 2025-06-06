@@ -19,15 +19,20 @@
 
 # 질문 게시판 만들기
 • 개발기간: 2025.5.18 ~ 2024.5.31
+
 • 프로젝트 개요: 프론트엔드와 협업하여 질문게시판을 만들었습니다. 사용자는 질문을 올릴 수 있으며, 각 질문에 대해 답변을 달 수 있습니다. 또한, 게시글을 쓸 때엔 닉네임, 비밀번호가 필요하며 위 키들은 게시글을 삭제 or 수정 시 필요합니다. 검색 기능과 정렬 기능이 포함되어 있습니다. 
 다만, 아래 링크에는 백엔드의 프로젝트만 존재합니다.
 
 • 참여자: 프론트 2명, 백엔드 1명
+
 • 프레임 워크: spring boot
+
   DB: MYsql
+
   배포: AWS RDS, AWS EC2
 
 • 프로젝트 링크: https://github.com/yunji1014/noticeboard_PJ.git
+
 • 발표 ppt 링크: https://www.canva.com/design/DAGo7Q397Dw/Knff6RgbEebgHqAM-_WxLg/edit?utm_content=DAGo7Q397Dw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
