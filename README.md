@@ -6,26 +6,27 @@
 저는 여러 교내활동을 통해 프로젝트를 진행하였으며
 팀장, 팀원의 위치에서 최선을 다해 프로젝트를 진행했습니다. 
 
+# 🖥️개발 스택
+c++ & 알고리즘| 약 1년 6개월
+java & springboot | 약 6개월
+c# & 유니티 | 약 1년 6개월
+
 # 📝Projects
 
-약 3년간 개발 활동을 하며 진행했던 프로젝트들입니다.
+# 질문 게시판 만들기
+• 개발기간: 2025.5.18 ~ 2024.5.31
+• 프로젝트 개요: 프론트엔드와 협업하여 질문게시판을 만들었습니다. 사용자는 질문을 올릴 수 있으며, 각 질문에 대해 답변을 달 수 있습니다. 또한, 게시글을 쓸 때엔 닉네임, 비밀번호가 필요하며 위 키들은 게시글을 삭제 or 수정 시 필요합니다. 검색 기능과 정렬 기능이 포함되어 있습니다. 
+다만, 아래 링크에는 백엔드의 프로젝트만 존재합니다.
 
+• 참여자: 프론트 2명, 백엔드 1명
+• 프레임 워크: spring boot
+  DB: MYsql
+  배포: AWS RDS, AWS EC2
 
-# 4. 컴퓨터그래픽스 [There will be an inspection]
-• 개발기간: 2024.5.1 ~ 2024.6.3
-• 사용 엔진: UNITY
-• 프로젝트 개요: 검문관이 되어 가지고 있는 힌트를 바탕으로 파티에 초청된 손님들 중 스파이를 찾아내는 퍼즐게임. 
-• 개인 프로젝트
+• 프로젝트 링크: https://github.com/yunji1014/noticeboard_PJ.git
+• 발표 ppt 링크: https://www.canva.com/design/DAGo7Q397Dw/Knff6RgbEebgHqAM-_WxLg/edit?utm_content=DAGo7Q397Dw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-개발 프로젝트
-https://drive.google.com/file/d/12DSJCPmIhpg2Yff0TtZnIO7F9u1yNGIr/view?usp=drive_link
-
-게임 소개 영상
-https://drive.google.com/file/d/1h-FKmU-g8gRaS7VWJ72kWGRXetJMtWq9/view?usp=sharing
-
-
-
-# 5. 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
+# 안드로이드 스튜디오 어플 개발 [도서 기록 어플]
 • 개발기간: 2024.5.1 ~ 2024.6.3
 • 사용 엔진: 안드로이드 스튜디오
 • 프로젝트 개요: READ NOW는 책을 읽으며 느낀 감상을 편리하게 기록하고, 영감을 간직하게 하여, 책과 독자의 생생하고 살아있는 상호작용을 실현시키는 App입니다.
@@ -40,49 +41,17 @@ https://github.com/yunji1014/guru_app_.git
 어플 소개 영상
 https://www.youtube.com/watch?v=OZKGd9gq8lw
 
-# 6. C++ 개인 스터디
-https://github.com/yunji1014/c-study.git
-
-
-
---------------------------------------------------------------------------------------------
-
-_
-# 1. 🐶GURU1-UNITY [puppy run]
-
-• 개발기간: 2023.1.1 ~ 2023.1.30
+# 컴퓨터그래픽스 [There will be an inspection]
+• 개발기간: 2024.4.1 ~ 2024.4.31
 • 사용 엔진: UNITY
-• 프로젝트 개요: 강아지를 중심으로 한 점프맵 형식의 게임
-• 맡은 역할: 팀장 | 점프시스템 구현, UI배치, 스토리 및 총괄, 디자인 등.
+• 프로젝트 개요: 검문관이 되어 가지고 있는 힌트를 바탕으로 파티에 초청된 손님들 중 스파이를 찾아내는 퍼즐게임. 
+• 개인 프로젝트
 
-https://github.com/yunji1014/guru_game.git
+개발 프로젝트
+https://drive.google.com/file/d/12DSJCPmIhpg2Yff0TtZnIO7F9u1yNGIr/view?usp=drive_link
 
-
-
-
-
-_
-# 2. 🔮웹페이지저작기초 [오늘의 운세 보기 사이트]
-
-• 개발기간: 2023.4.1 ~ 2023.6.15
-
-• 맡은 역할: 팀장 | 랜덤 시스템, 운세 문구 고안, NAME.JS, STAR.JS, TARO.JS 제작, 작업 총괄
-
-https://github.com/yunji1014/Fortune-of-today.git
-
-
-
-
-
-_
-# 3. 🌍소학회"DISSION" [지구를 지켜라]
-
-• 개발기간: 2023.6.30 ~ 2023.12.6
-• 사용 엔진: UNITY
-• 프로젝트 개요: 주인공 플레이어를 중심으로 보스몬스터를 해치우며 진실에 도달하는 RPG형 게임
-• 맡은 역할: 팀원-개발팀 | 설정시스템, 캐릭터 이동, 씬이동, 인벤토리 스위칭, 키세팅 설정, 게임 기획 등
-
-https://github.com/Yeon09-a/DISSION_SavingTheEarth.git
+게임 소개 영상
+https://drive.google.com/file/d/1h-FKmU-g8gRaS7VWJ72kWGRXetJMtWq9/view?usp=sharing
 
 
 
